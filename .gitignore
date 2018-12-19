@@ -1,4 +1,5 @@
 auth.txt
 scrap_vpns.py
-ovpn_files/*
-vpn-instances.txt
+VPN/*
+memcrashed/servers.json
+bruteforce/wfuzz-recipe
